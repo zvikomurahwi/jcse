@@ -1,2 +1,2 @@
 # wits_jsce
-For Professional Practices in Software Development
+For the Professional Practices in Software Development Course Practicals and Exercises. 
